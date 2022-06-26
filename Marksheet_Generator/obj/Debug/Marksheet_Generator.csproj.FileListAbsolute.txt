@@ -1,0 +1,10 @@
+c:\users\hp\documents\visual studio 2015\Projects\Marksheet_Generator\Marksheet_Generator\bin\Debug\Marksheet_Generator.exe.config
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Marksheet_Generator\Marksheet_Generator\bin\Debug\Marksheet_Generator.exe
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Marksheet_Generator\Marksheet_Generator\bin\Debug\Marksheet_Generator.pdb
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Marksheet_Generator\Marksheet_Generator\bin\Debug\Bunifu_UI_v1.5.3.dll
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Marksheet_Generator\Marksheet_Generator\obj\Debug\Marksheet_Generator.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Marksheet_Generator\Marksheet_Generator\obj\Debug\Marksheet_Generator.Mainform.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Marksheet_Generator\Marksheet_Generator\obj\Debug\Marksheet_Generator.Properties.Resources.resources
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Marksheet_Generator\Marksheet_Generator\obj\Debug\Marksheet_Generator.csproj.GenerateResource.Cache
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Marksheet_Generator\Marksheet_Generator\obj\Debug\Marksheet_Generator.exe
+C:\Users\hp\Documents\Visual Studio 2015\Projects\Marksheet_Generator\Marksheet_Generator\obj\Debug\Marksheet_Generator.pdb
